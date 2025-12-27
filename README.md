@@ -154,12 +154,30 @@ DEVELOPERS
 NOTE
 This project was developed for academic and portfolio purposes and is open
 to further improvements and extensions.
+
 ====================
-UYGULAMA ÖNİZLEME
+UYGULAMA EKRAN GÖRÜNTÜLERİ
 ====================
 
-Aşağıda Dinamik Sınav Takvimi ve Oturma Planı Sistemi’ne ait
-kullanıcı arayüzü ekran görüntüleri yer almaktadır.
+Genel Uygulama Önizleme
+----------------------
+Sistemin giriş ekranı, dashboard ve temel modüllerini gösteren genel görünüm.
 
 ![Uygulama Önizleme](screenshots/preview.png)
+
+
+Çakışma ve İstisna Yönetimi
+--------------------------
+Sınav programı oluşturulurken tespit edilen öğrenci çakışmaları,
+süre ve ders istisnalarının kullanıcıya detaylı şekilde raporlanması.
+
+![İstisnalar ve Çakışmalar](screenshots/exceptions.jpeg)
+
+
+Oturma Düzeni ve Derslik Yerleşimi
+----------------------------------
+Seçilen sınav slotu için derslik bazlı otomatik oluşturulan
+oturma planı ve öğrenci yerleşimi görselleştirmesi.
+
+![Oturma Düzeni](screenshots/oturma_duzeni.png)
 
